@@ -1,0 +1,55 @@
+#1234567890123456789012345678901234567890123456789
+#---------------------------------------------
+ 01   UBIGEO     Ubicacion Geografica 
+ 0101 Codigo     C 06 00
+ 0102 Nombre     V 30 00
+#---------------------------------------------
+ 02   MONEDAS    Monedas
+ 0201 Codigo     C 02 00
+ 0202 Nombre     V 20 00
+ 0203 Simbolo    V 05 00
+#---------------------------------------------
+ 03   CURSOS     Cursos de Pregrado
+ 0301 Codigo     C 08 00
+ 0302 Nombre     V 50 00
+ 0303 Ciclo      N 02 00
+ 0304 TotCred    N 02 00
+ 0305 HorasSem   N 02 00
+#---------------------------------------------
+ 04   ALUMNOS    Alumnos de UNMSM
+ 0401 Codigo     C 08 00
+ 0402 Apellidos  V 30 00
+ 0403 Nombres    V 30 00
+ 0404 DNI        C 08 00
+ 0405 FechaNacim D 08 00
+ 0406 LugarNacim C 06 00
+ 0407 CodSex     C 01 00
+ 0408 Direccion  V 40 00
+ 0409 Distrito   C 06 00
+ 0410 CodEAP     C 04 00
+#---------------------------------------------
+ 05   PROFESORES Docentes de UNMSM
+ 0501 Codigo     C 08 00
+ 0502 Apellidos  V 30 00
+ 0503 Nombres    V 30 00
+ 0504 DNI        C 08 00
+ 0505 FechaNacim D 08 00
+ 0506 LugarNacim C 06 00
+ 0507 CodSex     C 01 00
+ 0508 Direccion  V 40 00
+ 0509 Distrito   C 06 00
+ 0510 CodDepAcad C 04 00
+#---------------------------------------------
+ 06   SEXO       Sexo
+ 0601 Codigo     C 01 00
+ 0602 Nombre     V 10 00
+#---------------------------------------------
+ 07   ESCUELA    Escuela Academico Profesional
+ 0701 Codigo     C 04 00
+ 0702 Nombre     V 30 00
+#---------------------------------------------
+ 08   DEP_ACAD   Departamento Academico
+ 0801 Codigo     C 04 00
+ 0802 Nombre     V 30 00
+#---------------------------------------------
+#---------------------------------------------

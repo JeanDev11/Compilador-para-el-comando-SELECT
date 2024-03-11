@@ -1,0 +1,136 @@
+ #---------------------------------------------
+ 01 150000 LIMA
+ 01 150100 LIMA
+ 01 150101 LIMA
+ 01 150102 ANCON
+ 01 150103 ATE
+ 01 150104 BARRANCO
+ 01 150105 BREÑA
+ 01 150106 CARABAYLLO
+ 01 150107 CHACLACAYO
+ 01 150108 CHORRILLOS
+ 01 150109 CIENEGUILLA
+ 01 150110 COMAS
+ 01 150111 EL AGUSTINO
+ 01 150112 INDEPENDENCIA
+ 01 150113 JESUS MARIA
+ 01 150114 LA MOLINA
+ 01 150115 LA VICTORIA
+ 01 150116 LINCE
+ 01 150117 LOS OLIVOS
+ 01 150118 LURIGANCHO
+ 01 150119 LURIN
+ 01 150120 MAGDALENA DEL MAR
+ 01 150121 PUEBLO LIBRE
+ 01 150122 MIRAFLORES
+ 01 150123 PACHACAMAC
+ 01 150124 PUCUSANA
+ 01 150125 PUENTE PIEDRA
+ 01 150126 PUNTA HERMOSA
+ 01 150127 PUNTA NEGRA
+ 01 150128 RIMAC
+ 01 150129 SAN BARTOLO
+ 01 150130 SAN BORJA
+ 01 150131 SAN ISIDRO
+ 01 150132 SAN JUAN DE LURIGANCHO
+ 01 150133 SAN JUAN DE MIRAFLORES
+ 01 150134 SAN LUIS
+ 01 150135 SAN MARTIN DE PORRES
+ 01 150136 SAN MIGUEL
+ 01 150137 SANTA ANITA
+ 01 150138 SANTA MARIA DEL MAR
+ 01 150139 SANTA ROSA
+ 01 150140 SANTIAGO DE SURCO
+ 01 150141 SURQUILLO
+ 01 150142 VILLA EL SALVADOR
+ 01 150143 VILLA MARIA DEL TRIUNFO
+ 01 150400 CANTA
+ 01 150405 LACHAQUI
+ 01 150406 SAN BUENAVENTURA
+ 01 150407 SANTA ROSA DE QUIVES
+ 01 150500 CAÑETE
+ 01 150501 SAN VICENTE DE CAÑETE
+ 01 150502 ASIA
+ 01 140000 LAMBAYEQUE
+ 01 140300 LAMBAYEQUE
+ 01 140309 LAMBAYEQUE PACORA
+ 01 140310 SALAS
+ 01 140311 SAN JOSE
+ 01 140312 TUCUME
+ 01 160000 LORETO
+ 01 160100 MAYNAS
+ 01 160102 ALTO NANAY
+ 01 160103 FERNANDO LORES
+ 01 180000 MOQUEGUA
+ 01 180300 ILO
+ 01 180302 EL ALGARROBAL
+ 01 180303 PACOCHA
+ 01 190000 PASCO
+ 01 190100 PASCO
+ 01 190102 HUACHON
+ 01 190103 HUARIACA
+ #---------------------------------------------
+ 02 01 Soles                S/.   
+ 02 02 Dolares              US $. 
+ 02 03 Euros                E/.   
+ 02 04 Peso Mexicano        $     
+ 02 05 Real Brasileiro      $     
+ #---------------------------------------------
+ 03 20118031 PROGRAMACIÓN Y FUNDAMENTOS DE ALGORÍTMICA          03 04 05
+ 03 20118032 TEORÍA GENERAL DE SISTEMAS                         03 03 04
+ 03 20118033 ORGANIZACIÓN Y ADMINISTRACIÓN                      03 03 04
+ 03 20118034 INGENIERÍA ECONOMICA                               03 03 04
+ 03 20118035 ESTADISTICA                                        03 03 04
+ 03 20118036 SERIES Y ECUACIONES DIFERENCIALES                  03 03 04
+ 03 20118037 MATEMÁTICAS DISCRETAS                              03 03 04
+ #---------------------------------------------
+ 04 50816913 Aguilar Abimerhi               Adriana                        16321224 20000101 150101 2 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1
+ 04 19696454 Alavez Adame                   Alberto                        87612177 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1
+ 04 44700503 Alcántar Adame                 Aleida Luisa                   70580137 20000101 150101 2 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1
+ 04 85681248 Alfaro Alejo                   Alejandra                      85237063 20000102 150101 2 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1
+ 04 26717469 Almaraz Alkadef                Alejandro                      38748427 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.2
+ 04 63005689 Antonio Angulo                 Ana Elizabeth                  54820102 20000101 150101 2 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1
+ 04 31686059 Barrera Carlos                 Berenice                       62169212 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 14.4
+ 04 98545884 Barrera Carmona                Bernardo                       82598523 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 14.5
+ 04 16397529 Bustamante Cruz                Carmen Patricia                77597517 20000106 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1
+ 04 70543255 Báez Cruz                      Carmen Rocío                   15163458 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.2
+ 04 84814983 Cabada Cruz                    Carol                          97764547 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 14.1
+ 04 38032537 Caro Damián                    Claudia Alejandra              95818445 20000501 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1
+ 04 95942232 González Hidalgo               Juan Guadalupe                 91606913 20000502 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.2
+ 04 23207892 González Jurado                Juan Isaías                    49346060 20000503 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 14.1
+ 04 55065234 Huerta Martínez                Lidia                          10464347 20000504 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 14.1
+ 04 12408947 Inzunza Martínez               Limbergh Ulises                53462317 20000105 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 14.2
+ 04 83727475 Jarero Martínez                Lorena                         98687709 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 14.4
+ 04 97873438 Juan Medina                    Cristina                       41269144 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1
+ 04 52367822 Juárez Mena                    Manuel                         14536757 20000102 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1
+ 04 32148817 Lameiro Mendoza                Manuel                         42388256 20000111 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.2
+ 04 54023984 Lara Meraz                     Manuel Alejandro               76715286 20000112 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 14.1
+ 04 27828711 Martinez Montoya               Marco Antonio                  13426903 20000113 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1
+ 04 55201182 Olua Padilla                   María Guadalupe                55994637 20000114 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.2
+ 04 83536320 Ortega Panameño                María Josefina                 40752056 20000115 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 14.1
+ 04 28859175 Ortiz Pelaéz                   María Magdalena                84009145 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 14.1
+ 04 38363118 Porras Pérez                   Moisés Ignacio                 21539163 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1
+ 04 32977910 Prado Ramírez                  Monica                         13201978 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.2
+ 04 50486503 Pérez Rivera                   Olegaria                       54395083 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 14.5
+ #---------------------------------------------
+ 05 61224726 Tello Treviño                  Salvador                       92931380 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1  
+ 05 75990967 Torres Valdez                  Sergio Carlos                  43085240 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.2  
+ 05 91324287 Vargas Vilchis                 Valentín                       93745816 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1  
+ 05 14852242 Zamora Álvarez                 Yolis                          12075913 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1  
+ 05 14517158 Álvarez Ávila                  Óscar                          51588210 20000101 150101 1 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 150101 20.1  
+ #---------------------------------------------
+ #---------------------------------------------
+ 06 1 Masculino
+ 06 2 Femenino
+ #---------------------------------------------
+ 07 20.1 Ingenieria de Sistemas
+ 07 20.2 Ingenieria de Software
+ 07 14.1 Matematica
+ 07 14.2 Estadistica
+ 07 14.4 Investigacion Operativa
+ 07 14.5 Computación Cientifica
+ 07 01.1 Medicina Humana
+ #---------------------------------------------
+ 08 20.1 Ciencias de la Computacion
+ 08 20.2 Ingenieria de Software
+ #---------------------------------------------
